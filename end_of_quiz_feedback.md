@@ -1,0 +1,1 @@
+It would be nice if at the end of the quiz, you would be presented with an overview of the quiz questions, with the right answers and the answers you gave. A sort of "end-of-game" summary.
